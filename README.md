@@ -44,7 +44,8 @@ options:
     -f sample \
     -G /refs/genes.gtf.gz \
     -O /data/out \
-    -o sample_strand
+    -o sample_strand \
+    -T 16
 ``` 
 
 #### From FASTQs with HISAT2 (paired-end):
@@ -63,7 +64,7 @@ options:
   -T 16
 ``` 
 
-#### From FASTQs with HISAT2 (pSingle-end):
+#### From FASTQs with HISAT2 (Single-end):
 #### usage: 
 ```
    Strandness \
@@ -74,7 +75,8 @@ options:
   -X /refs/hisat2/grch38_index \
   -O /data/out \
   -o sampleSE_strand \
-  -1 /data/fastq/sample_SE.fastq.gz
+  -1 /data/fastq/sample_SE.fastq.gz \
+  -T 16
 ``` 
 
 
