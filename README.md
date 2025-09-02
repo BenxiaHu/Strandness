@@ -87,7 +87,7 @@ numpy
 pandas  
 argparse  
 
-#### pip install Strandness==1.10.0
+#### pip install Strandness==1.0.0
 https://pypi.org/project/Strandness/1.0.0/
 
 
