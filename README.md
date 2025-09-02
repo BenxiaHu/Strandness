@@ -52,9 +52,7 @@ numpy
 pandas  
 argparse  
 
-#### pip install DLR-ICF==1.10.0
-https://pypi.org/project/DLR-ICF/1.10.0/  
+#### pip install Strandness==1.10.0
+https://pypi.org/project/Strandness/1.0.0/
 
-#### conda install -c bxhu dlr_icf
-https://anaconda.org/bxhu/dlr_icf  
 
